@@ -1,2 +1,2 @@
 # Nuclear-IT-Hack
-Task from VK 'recognition of bots by TLS embeddings'
+Task from VK Group 'recognition of bots by TLS embeddings'
